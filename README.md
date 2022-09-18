@@ -2,6 +2,8 @@
 - Using Supervised and Unsupervised Learning, completed Predicitve Modelling on Healthcare Industry, mainly on Stroke and Diabetes, using SAS Viya.
 - 3 main goals of developing predictive models of 80% accuracy in predicting stroke and diabetes, pinpoint factors associated with those health problems, and help predict health problems more accurately. 
 
+<img src = "Predictive.png" />
+
 ## Background 
 - Our team discovered that the healthcare industry suffers from high attrition rates, hence face severe understaffing. Moreover, 1 in  201 patients face delayed treatment as a result of misdiagnosis or failure to seek help early enough. We, therefore, decided to focus on the healthcare industry before breaking it down into smaller factors. 
 
