@@ -32,7 +32,7 @@
 - Obesity 
 
 ## Roles 
-- Shermaine --> Lead, Stroke 
+- Shermaine --> Leader, Stroke 
 - Shi Min --> Stroke 
 - Zhang Xiang --> Diabetes
 - Rawtbhik --> Diabetes
