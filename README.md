@@ -1,6 +1,6 @@
 # SAS Predictive Analytics
 - Using Supervised and Unsupervised Learning, completed Predicitve Modelling on Healthcare Industry, mainly on Stroke and Diabetes, using SAS Viya.
-- 3 main goals of developing predictive models of 80% accuracy in predicting stroke and diabetes, pinpoint factors associated with those health problems, and help predict health problems more accurately. 
+- 3 main goals of: developing predictive models of 80% accuracy in predicting stroke and diabetes, pinpoint factors associated with those health problems, and help predict health problems more accurately. 
 
 <img src = "Predictive.png" />
 
